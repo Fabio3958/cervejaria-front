@@ -1,0 +1,10 @@
+.navbar-brand{
+    padding-right: 1rem;
+}
+.nav-item{
+    padding-right: 1rem;
+}
+
+body{
+    background-color: rgb(34, 32, 32);
+}
