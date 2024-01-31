@@ -1,0 +1,32 @@
+.formCadastroCliente{
+    padding-top: 6rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+input{
+    margin: 1.4rem;
+    border: 2px solid rgb(255, 193, 7);
+    border-radius: 1rem;
+    width: 40%;
+    text-align: center;
+    background-color: rgb(232, 232, 232);
+}
+
+.inputData{
+    width: 20%;
+}
+
+.inputCep{
+    width: 20%;
+}
+
+.container .btn{
+    margin-top: 3rem;
+    background-color: rgb(18, 18, 18);
+    border: 1px solid rgb(255, 193, 7);
+    border-radius: 1rem;
+    color: rgb(255, 193, 7);
+    width: 30%;
+}
