@@ -6,13 +6,13 @@
 }
 
 input{
-    margin: 1.4rem;
+    margin: 1.2rem;
     border: 2px solid rgb(255, 193, 7);
     border-radius: 1rem;
     width: 40%;
     text-align: center;
     background-color: rgb(232, 232, 232);
-}
+}   
 
 .inputData{
     width: 20%;

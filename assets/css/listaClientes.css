@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    padding-top: 3rem;
+}
+
+.clientesLista button{
+    margin: 1.2rem;
+    border: 2px solid rgb(255, 193, 7);
+    border-radius: 1rem;
+    width: 80%;
+    text-align: center;
+    background-color: rgb(232, 232, 232);
+
+}
+
+.clienteDetalhes{
+    width: 80%;
+    height: 80vh;
+    border: 2px solid rgb(255, 193, 7);
+    border-radius: 1rem;
+}
