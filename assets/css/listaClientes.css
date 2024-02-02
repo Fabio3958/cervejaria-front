@@ -1,21 +1,44 @@
 .container{
     display: flex;
-    padding-top: 3rem;
+    padding-top: 7rem;
 }
 
 .clientesLista button{
     margin: 1.2rem;
     border: 2px solid rgb(255, 193, 7);
     border-radius: 1rem;
-    width: 80%;
+    width: 50%;
     text-align: center;
     background-color: rgb(232, 232, 232);
-
 }
 
 .clienteDetalhes{
-    width: 80%;
-    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    left: 55%;
+    height: 85vh;
+    background-color: rgb(24, 24, 24);
     border: 2px solid rgb(255, 193, 7);
     border-radius: 1rem;
+    position: fixed;
+}
+
+.clienteDetalhes h1{
+    padding: 3rem;
+}
+
+.clienteDetalhes span{
+    padding: 1.2rem;
+}
+
+.clienteDetalhes button{
+    margin: 4rem;
+    border: 2px solid rgb(255, 193, 7);
+    border-radius: 1rem;
+    width: 50%;
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 193, 7);
 }
