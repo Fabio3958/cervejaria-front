@@ -13,3 +13,9 @@ body{
     width: 100%;
     position: fixed;
 }
+
+.btn:hover{
+    color: rgb(211, 211, 211);
+    background-color: black;
+    border: 2px solid rgb(255, 193, 7);
+}

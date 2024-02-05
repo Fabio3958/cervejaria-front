@@ -23,6 +23,7 @@
     border: 2px solid rgb(255, 193, 7);
     border-radius: 1rem;
     position: fixed;
+    color: rgb(211, 211, 211);
 }
 
 .clienteDetalhes h1{
@@ -34,7 +35,7 @@
 }
 
 .clienteDetalhes button{
-    margin: 4rem;
+    margin: 8rem;
     border: 2px solid rgb(255, 193, 7);
     border-radius: 1rem;
     width: 50%;
