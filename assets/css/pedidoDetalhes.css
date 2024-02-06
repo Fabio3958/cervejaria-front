@@ -1,0 +1,22 @@
+.container{
+    padding-top: 8rem;
+    color: white;
+}
+
+.dataNascimento{
+    margin-top: 1rem;
+}
+
+.itensValores{
+    margin-top: 4rem;
+    display: flex;
+}
+
+.itens{
+    padding-right: 4rem;
+}
+
+
+.valorTotal{
+    margin-top: 8rem;
+}
