@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 7rem;
+}
+
+input{
+    margin: 1.2rem;
+    border: 2px solid rgb(255, 193, 7);
+    border-radius: 1rem;
+    width: 33%;
+    text-align: center;
+    background-color: rgb(232, 232, 232);
+} 
+
+.container select{
+    background-color: rgb(232, 232, 232);
+    border: 2px solid rgb(255, 193, 7);
+    border-radius: 1rem;
+    color: black;
+    width: 33%;
+}
+
+.itensValores{
+    margin-top: 1.5rem
+}
+
+.container a{
+    margin-top:1.2rem;
+    border: 2px solid rgb(255, 193, 7);
+    border-radius: 1rem;
+    width: 25%;
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 193, 7);
+}
+
+footer{
+    position: fixed;
+    bottom: 2rem;
+    right: 0;
+    width: 300px;
+    color: rgb(232, 232, 232);
+    
+}

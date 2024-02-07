@@ -34,7 +34,7 @@
     padding: 1.2rem;
 }
 
-.clienteDetalhes button{
+.clienteDetalhes a{
     margin: 8rem;
     border: 2px solid rgb(255, 193, 7);
     border-radius: 1rem;
