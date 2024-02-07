@@ -1,0 +1,22 @@
+.container .btn{
+    margin: 1.8rem;
+    border: 2px solid rgb(255, 193, 7);
+    border-radius: 1rem;
+    width: 80%;
+    text-align: center;
+    background-color: rgb(232, 232, 232);
+}
+
+.container .btn:hover{
+    color: rgb(255, 193, 7);
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.container{
+    margin-top: 8rem;
+}
